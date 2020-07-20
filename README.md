@@ -35,19 +35,18 @@
 <img width="36px" alt="html" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/html5.svg">&nbsp;
 <img width="36px" alt="css" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/css3.svg">&nbsp;
 <img width="36px" alt="javascript" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/javascript.svg">&nbsp;
+<img width="36px" alt="javascript" src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg">&nbsp;
 <img width="46px" alt="react" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/react.svg">&nbsp;
-<img width="40px" alt="c++" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/c-plus.svg">&nbsp;
+<img width="36px" alt="javascript" src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
 
 ## **Tools** 💻️
 
-<img width="36px" alt="vim" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/vim.svg">&nbsp;
 <img width="36px" alt="vscode" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/visual-studio-code.svg">&nbsp;
 <img width="40px" alt="github" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/github.svg">&nbsp;
-<img width="36px" alt="linux" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linux.svg">&nbsp;
 
 ## **You can Reach me out** ☎️
 
-<a href="https://www.linkedin.com/in/karthik-nayak24">
+<a href="https://www.linkedin.com/in/edison-augusthy-403837129">
         <img width="30px" alt="LinkedIn" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linkedin.svg">&nbsp;
 </a>
 
