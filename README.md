@@ -1,61 +1,78 @@
-# <p align="center">️ **Hello!!👋️ I'm Edison Augusthy** 🎯️🚀️</p>
+# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Edison Augusthy** 🎯️🚀️</p>
 
 ---
 
+<p align="center">
+<a href="https://github.com/edisonaugusthy/edisonaugusthy/blob/master/LICENCE">
+<img alt="Licence" src="https://img.shields.io/github/license/edisonaugusthy/edisonaugusthy?color=brightgreen&label=LICENCE&logo=MIT"/>
+</a>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=edisonaugusthy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/edisonaugusthy/edisonaugusthy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+ <a href="https://github.com/edisonaugusthy/edisonaugusthy/actions">
+   <img alt="github-activity" src="https://github.com/edisonaugusthy/edisonaugusthy/workflows/update-gh-activity/badge.svg">
+  </a>
+</p>
+</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-<img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-</br>
+- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
+- I always like working in 🐧️**Linux** Environment.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
-## &nbsp; &nbsp; &nbsp; **About Me**👨‍🎓️
-
-- I'm aspiring 🔭️ Front-End Web Developer currently learning **ReactJs** library.
-- I always like working in 🐧️**Windows** Environment.
-- I'm a knowledge seeker & I love to learn new **Technologies**.
-
-### <p align="center">**Keep Learning** 😊️ </p>
-
-<!-- - 🌱 I’m currently learning ReactJs -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - ⚡ Fun fact: ... -->
-
- </br>
- </br>
+### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
 ---
 
-## **Tech Stack** 👨‍💻️
+## 📈 **Github Stats:**
 
- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=edisonaugusthy&show_icons=true&text_color=fff&icon_color=00C853&title_color=FF6F00&bg_color=000">
-
-<img width="36px" alt="html" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/html5.svg">&nbsp;
-<img width="36px" alt="css" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/css3.svg">&nbsp;
-<img width="36px" alt="javascript" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/javascript.svg">&nbsp;
-<img width="36px" alt="javascript" src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg">&nbsp;
-<img width="46px" alt="react" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/react.svg">&nbsp;
-<img width="36px" alt="javascript" src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
-
-## **Tools** 💻️
-
-<img width="36px" alt="vscode" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/visual-studio-code.svg">&nbsp;
-<img width="40px" alt="github" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/github.svg">&nbsp;
-
-## **You can Reach me out** ☎️
-
-<a href="https://www.linkedin.com/in/edison-augusthy-403837129">
-        <img width="30px" alt="LinkedIn" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/linkedin.svg">&nbsp;
+<a href="https://github.com/edisonaugusthy">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=edisonaugusthy&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
-
-<a href="mailto:edisonaugusthy117@gmail.com?subject=Hello%20Karthik">
-        <img width="36px" alt="gmail" src="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/assets/gmail.svg">&nbsp;
+<a href="https://github.com/edisonaugusthy/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edisonaugusthy&layout=compact&theme=blue-green" />
 </a>
 
 </br>
-</br>
 
-<!-- [![Total Visitors](http://hits.dwyl.com/edisonaugusthy/edisonaugusthy.svg)](http://hits.dwyl.com/edisonaugusthy/edisonaugusthy) -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthiknayak024" alt="edisonaugusthy" /> </p>
+## 🛠️ **Languages & Tools:**
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+
+
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🌐 **Reach out to me:** ️
+
+[<img src="https://img.shields.io/badge/LinkedIn-edison-augusthy-403837129-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-edisonaugusthy117@gamil.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+[<img src="https://img.shields.io/badge/Github-edisonaugusthy-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+[<img src="https://img.shields.io/badge/Stackoverflow-edison-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
+
+
+<!-- ## **Badges:**
+
+</a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+</a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
+
+## **🔥️ Recent Github Activity:**
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/edison-augusthy-403837129
+[gmail]: mailto:edisonaugusthy117@gmail.com "Lets connect through email"
+[stackoverflow]: https://stackoverflow.com/users/6781625/edison
+[github]: https://github.com/edisonaugusthy
+[licence]: https://github.com/edisonaugusthy/edisonaugusthy/blob/master/LICENSE
+[twitter]: https://twitter.com/edisonpappi
