@@ -51,7 +51,7 @@
 
 ## 🌐 **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-edison-augusthy-403837129-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/LinkedIn-edison-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-edisonaugusthy117@gamil.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 [<img src="https://img.shields.io/badge/Github-edisonaugusthy-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 [<img src="https://img.shields.io/badge/Stackoverflow-edison-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
