@@ -66,11 +66,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com//edisonaugusthy/ng-storage/pull/14) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
-2. 💪 Opened PR [#14](https://github.com//edisonaugusthy/ng-storage/pull/14) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
-3. 🎉 Merged PR [#13](https://github.com//edisonaugusthy/ng-storage/pull/13) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
-4. 💪 Opened PR [#13](https://github.com//edisonaugusthy/ng-storage/pull/13) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
-5. 🎉 Merged PR [#12](https://github.com//edisonaugusthy/ng-storage/pull/12) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
+1. 🎉 Merged PR [#15](https://github.com//edisonaugusthy/ng-storage/pull/15) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
+2. 💪 Opened PR [#15](https://github.com//edisonaugusthy/ng-storage/pull/15) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
+3. 🎉 Merged PR [#14](https://github.com//edisonaugusthy/ng-storage/pull/14) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
+4. 💪 Opened PR [#14](https://github.com//edisonaugusthy/ng-storage/pull/14) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
+5. 🎉 Merged PR [#13](https://github.com//edisonaugusthy/ng-storage/pull/13) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
