@@ -66,11 +66,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com//edisonaugusthy/ng7-DragAndDrop/pull/14) in [edisonaugusthy/ng7-DragAndDrop](https://github.com//edisonaugusthy/ng7-DragAndDrop)
-2. 💪 Opened PR [#14](https://github.com//edisonaugusthy/ng7-DragAndDrop/pull/14) in [edisonaugusthy/ng7-DragAndDrop](https://github.com//edisonaugusthy/ng7-DragAndDrop)
-3. 💪 Opened PR [#13](https://github.com//edisonaugusthy/ng7-DragAndDrop/pull/13) in [edisonaugusthy/ng7-DragAndDrop](https://github.com//edisonaugusthy/ng7-DragAndDrop)
-4. 🎉 Merged PR [#18](https://github.com//edisonaugusthy/ng-storage/pull/18) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
-5. 💪 Opened PR [#18](https://github.com//edisonaugusthy/ng-storage/pull/18) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
+1. 🎉 Merged PR [#19](https://github.com//edisonaugusthy/ng-storage/pull/19) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
+2. 💪 Opened PR [#19](https://github.com//edisonaugusthy/ng-storage/pull/19) in [edisonaugusthy/ng-storage](https://github.com//edisonaugusthy/ng-storage)
+3. 🎉 Merged PR [#14](https://github.com//edisonaugusthy/ng7-DragAndDrop/pull/14) in [edisonaugusthy/ng7-DragAndDrop](https://github.com//edisonaugusthy/ng7-DragAndDrop)
+4. 💪 Opened PR [#14](https://github.com//edisonaugusthy/ng7-DragAndDrop/pull/14) in [edisonaugusthy/ng7-DragAndDrop](https://github.com//edisonaugusthy/ng7-DragAndDrop)
+5. 💪 Opened PR [#13](https://github.com//edisonaugusthy/ng7-DragAndDrop/pull/13) in [edisonaugusthy/ng7-DragAndDrop](https://github.com//edisonaugusthy/ng7-DragAndDrop)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
