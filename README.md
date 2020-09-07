@@ -28,7 +28,7 @@
 
 ## 📈 **Github Stats:**
 
-[![](https://github-profile-trophy.vercel.app/?username=edisonaugusthy-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=edisonaugusthy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/edisonaugusthy">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=edisonaugusthy&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
