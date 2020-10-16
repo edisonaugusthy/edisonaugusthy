@@ -68,11 +68,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/edisonaugusthy/angular-redux/pull/1) in [edisonaugusthy/angular-redux](https://github.com/edisonaugusthy/angular-redux)
-2. 💪 Opened PR [#1](https://github.com/edisonaugusthy/angular-redux/pull/1) in [edisonaugusthy/angular-redux](https://github.com/edisonaugusthy/angular-redux)
-3. 🎉 Merged PR [#1](https://github.com/edisonaugusthy/blog-posts/pull/1) in [edisonaugusthy/blog-posts](https://github.com/edisonaugusthy/blog-posts)
-4. 💪 Opened PR [#1](https://github.com/edisonaugusthy/blog-posts/pull/1) in [edisonaugusthy/blog-posts](https://github.com/edisonaugusthy/blog-posts)
-5. 🎉 Merged PR [#20](https://github.com/edisonaugusthy/ng-storage/pull/20) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+1. 🎉 Merged PR [#1](https://github.com/edisonaugusthy/github-manager/pull/1) in [edisonaugusthy/github-manager](https://github.com/edisonaugusthy/github-manager)
+2. 💪 Opened PR [#1](https://github.com/edisonaugusthy/github-manager/pull/1) in [edisonaugusthy/github-manager](https://github.com/edisonaugusthy/github-manager)
+3. 🎉 Merged PR [#1](https://github.com/edisonaugusthy/angular-redux/pull/1) in [edisonaugusthy/angular-redux](https://github.com/edisonaugusthy/angular-redux)
+4. 💪 Opened PR [#1](https://github.com/edisonaugusthy/angular-redux/pull/1) in [edisonaugusthy/angular-redux](https://github.com/edisonaugusthy/angular-redux)
+5. 🎉 Merged PR [#1](https://github.com/edisonaugusthy/blog-posts/pull/1) in [edisonaugusthy/blog-posts](https://github.com/edisonaugusthy/blog-posts)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
