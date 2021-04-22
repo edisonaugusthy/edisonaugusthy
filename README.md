@@ -18,7 +18,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs,VueJS,Svelte,Python**.
+- I'm aspiring 🔭️ FullStack Developer currently learning 🌱 **Java,VueJS,Svelte,Go**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
