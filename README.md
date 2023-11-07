@@ -68,11 +68,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/edisonaugusthy/blog-posts/pull/2) in [edisonaugusthy/blog-posts](https://github.com/edisonaugusthy/blog-posts)
-2. 💪 Opened PR [#2](https://github.com/edisonaugusthy/blog-posts/pull/2) in [edisonaugusthy/blog-posts](https://github.com/edisonaugusthy/blog-posts)
-3. 🎉 Merged PR [#1](https://github.com/edisonaugusthy/angular-redux/pull/1) in [edisonaugusthy/angular-redux](https://github.com/edisonaugusthy/angular-redux)
-4. 💪 Opened PR [#1](https://github.com/edisonaugusthy/angular-redux/pull/1) in [edisonaugusthy/angular-redux](https://github.com/edisonaugusthy/angular-redux)
-5. 🎉 Merged PR [#1](https://github.com/edisonaugusthy/blog-posts/pull/1) in [edisonaugusthy/blog-posts](https://github.com/edisonaugusthy/blog-posts)
+1. 🚀 Published release [1.1.8](https://github.com/edisonaugusthy/ng7-DragAndDrop/releases/tag/1.1.8) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
+2. ❌ Closed PR [#56](https://github.com/edisonaugusthy/ng7-DragAndDrop/pull/56) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
+3. 🎉 Merged PR [#57](https://github.com/edisonaugusthy/ng7-DragAndDrop/pull/57) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
+4. 💪 Opened PR [#57](https://github.com/edisonaugusthy/ng7-DragAndDrop/pull/57) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
+5. 🚀 Published release [1.1.7](https://github.com/edisonaugusthy/ng7-DragAndDrop/releases/tag/1.1.7) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
