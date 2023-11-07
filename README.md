@@ -68,11 +68,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [1.1.8](https://github.com/edisonaugusthy/ng7-DragAndDrop/releases/tag/1.1.8) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
-2. ❌ Closed PR [#56](https://github.com/edisonaugusthy/ng7-DragAndDrop/pull/56) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
-3. 🎉 Merged PR [#57](https://github.com/edisonaugusthy/ng7-DragAndDrop/pull/57) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
-4. 💪 Opened PR [#57](https://github.com/edisonaugusthy/ng7-DragAndDrop/pull/57) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
-5. 🚀 Published release [1.1.7](https://github.com/edisonaugusthy/ng7-DragAndDrop/releases/tag/1.1.7) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
+1. 🎉 Merged PR [#58](https://github.com/edisonaugusthy/ng-storage/pull/58) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+2. 💪 Opened PR [#58](https://github.com/edisonaugusthy/ng-storage/pull/58) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+3. 🎉 Merged PR [#57](https://github.com/edisonaugusthy/ng-storage/pull/57) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+4. 💪 Opened PR [#57](https://github.com/edisonaugusthy/ng-storage/pull/57) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+5. 🚀 Published release [1.1.8](https://github.com/edisonaugusthy/ng7-DragAndDrop/releases/tag/1.1.8) in [edisonaugusthy/ng7-DragAndDrop](https://github.com/edisonaugusthy/ng7-DragAndDrop)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
