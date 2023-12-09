@@ -68,11 +68,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/3) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
-2. 💪 Opened PR [#3](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/3) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
-3. 🚀 Published release [1.1.9](https://github.com/edisonaugusthy/ng-storage/releases/tag/1.1.9) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-4. 🎉 Merged PR [#60](https://github.com/edisonaugusthy/ng-storage/pull/60) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-5. 💪 Opened PR [#60](https://github.com/edisonaugusthy/ng-storage/pull/60) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+1. 🎉 Merged PR [#10](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/10) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+2. 💪 Opened PR [#10](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/10) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+3. 🎉 Merged PR [#9](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/9) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+4. 💪 Opened PR [#9](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/9) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+5. 🎉 Merged PR [#3](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/3) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
