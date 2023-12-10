@@ -68,11 +68,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/16) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
-2. 💪 Opened PR [#16](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/16) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
-3. 🎉 Merged PR [#13](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/13) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
-4. 💪 Opened PR [#13](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/13) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
-5. 🎉 Merged PR [#10](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/10) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+1. 🎉 Merged PR [#19](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/19) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+2. 💪 Opened PR [#19](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/19) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+3. 🎉 Merged PR [#18](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/18) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+4. 💪 Opened PR [#18](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/18) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
+5. 🎉 Merged PR [#16](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email/pull/16) in [lamtrinh259/ETHGlobal_India_2023_Web3_Email](https://github.com/lamtrinh259/ETHGlobal_India_2023_Web3_Email)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
