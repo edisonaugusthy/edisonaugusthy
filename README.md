@@ -8,9 +8,6 @@
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=edisonaugusthy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/edisonaugusthy/edisonaugusthy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <a href="https://github.com/edisonaugusthy/edisonaugusthy/actions">
-   <img alt="github-activity" src="https://github.com/edisonaugusthy/edisonaugusthy/workflows/update-gh-activity/badge.svg">
-  </a>
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -18,8 +15,8 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ FullStack Developer currently learning 🌱 **Java,VueJS,Svelte,Go**.
-- I always like working in 🐧️**Linux** Environment.
+- I'm aspiring FullStack Blockchain Developer.
+- I always like working in **Mac** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
@@ -81,5 +78,3 @@
 [gmail]: mailto:edisonaugusthy117@gmail.com "Lets connect through email"
 [stackoverflow]: https://stackoverflow.com/users/6781625/edison
 [github]: https://github.com/edisonaugusthy
-[licence]: https://github.com/edisonaugusthy/edisonaugusthy/blob/master/LICENSE
-[twitter]: https://twitter.com/edisonpappi
