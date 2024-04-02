@@ -65,11 +65,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/edisonaugusthy/js-data-structures/pull/5) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
-2. 💪 Opened PR [#5](https://github.com/edisonaugusthy/js-data-structures/pull/5) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
-3. 🎉 Merged PR [#4](https://github.com/edisonaugusthy/js-data-structures/pull/4) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
-4. 💪 Opened PR [#4](https://github.com/edisonaugusthy/js-data-structures/pull/4) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
-5. 🎉 Merged PR [#3](https://github.com/edisonaugusthy/js-data-structures/pull/3) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+1. 🎉 Merged PR [#6](https://github.com/edisonaugusthy/js-data-structures/pull/6) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+2. 💪 Opened PR [#6](https://github.com/edisonaugusthy/js-data-structures/pull/6) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+3. 🎉 Merged PR [#5](https://github.com/edisonaugusthy/js-data-structures/pull/5) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+4. 💪 Opened PR [#5](https://github.com/edisonaugusthy/js-data-structures/pull/5) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+5. 🎉 Merged PR [#4](https://github.com/edisonaugusthy/js-data-structures/pull/4) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
