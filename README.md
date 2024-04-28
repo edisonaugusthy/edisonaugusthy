@@ -65,11 +65,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#34](https://github.com/edisonaugusthy/ng-storage/pull/34) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-2. ❌ Closed PR [#49](https://github.com/edisonaugusthy/ng-storage/pull/49) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-3. ❌ Closed PR [#24](https://github.com/edisonaugusthy/ng-storage/pull/24) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-4. ❌ Closed PR [#33](https://github.com/edisonaugusthy/ng-storage/pull/33) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-5. ❌ Closed PR [#30](https://github.com/edisonaugusthy/ng-storage/pull/30) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+1. 🔒 Closed issue [#63](https://github.com/edisonaugusthy/ng-storage/issues/63) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+2. ❌ Closed PR [#34](https://github.com/edisonaugusthy/ng-storage/pull/34) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+3. ❌ Closed PR [#49](https://github.com/edisonaugusthy/ng-storage/pull/49) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+4. ❌ Closed PR [#24](https://github.com/edisonaugusthy/ng-storage/pull/24) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+5. ❌ Closed PR [#33](https://github.com/edisonaugusthy/ng-storage/pull/33) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
