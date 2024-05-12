@@ -65,11 +65,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/edisonaugusthy/js-data-structures/pull/7) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
-2. 💪 Opened PR [#7](https://github.com/edisonaugusthy/js-data-structures/pull/7) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
-3. 🔒 Closed issue [#63](https://github.com/edisonaugusthy/ng-storage/issues/63) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-4. ❌ Closed PR [#34](https://github.com/edisonaugusthy/ng-storage/pull/34) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-5. ❌ Closed PR [#49](https://github.com/edisonaugusthy/ng-storage/pull/49) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+1. 🎉 Merged PR [#8](https://github.com/edisonaugusthy/js-data-structures/pull/8) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+2. 💪 Opened PR [#8](https://github.com/edisonaugusthy/js-data-structures/pull/8) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+3. 🎉 Merged PR [#7](https://github.com/edisonaugusthy/js-data-structures/pull/7) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+4. 💪 Opened PR [#7](https://github.com/edisonaugusthy/js-data-structures/pull/7) in [edisonaugusthy/js-data-structures](https://github.com/edisonaugusthy/js-data-structures)
+5. 🔒 Closed issue [#63](https://github.com/edisonaugusthy/ng-storage/issues/63) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
 <!--END_SECTION:activity-->
 
 <!-- Links of Definitions -->
