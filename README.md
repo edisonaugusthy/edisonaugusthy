@@ -19,22 +19,6 @@
 - I always like working in **Mac** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-
----
-
-## 📈 **Github Stats:**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=edisonaugusthy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github.com/edisonaugusthy">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=edisonaugusthy&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
-<a href="https://github.com/edisonaugusthy/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edisonaugusthy&layout=compact&theme=blue-green" />
-</a>
-
-</br>
 
 ## 🛠️ **Languages & Tools:**
 
