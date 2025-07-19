@@ -1,7 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Edison%20Augusthy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50)
 
 <div align="center">
-[![License](https://img.shields.io/github/license/edisonaugusthy/edisonaugusthy?color=brightgreen&label=LICENCE&logo=MIT)](https://github.com/edisonaugusthy/edisonaugusthy/blob/master/LICENCE)
+
+![License](https://img.shields.io/github/license/edisonaugusthy/edisonaugusthy?color=brightgreen&label=LICENCE&logo=MIT)](https://github.com/edisonaugusthy/edisonaugusthy/blob/master/LICENCE)
 ![Profile Views](https://komarev.com/ghpvc/?username=edisonaugusthy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12)
 ![Last Commit](https://img.shields.io/github/last-commit/edisonaugusthy/edisonaugusthy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
 
@@ -73,38 +74,9 @@ philosophy: "Building scalable solutions with clean code principles"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edisonaugusthy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonaugusthy&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edisonaugusthy&theme=radical)
 
 </div>
-
-## ⏰ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages:
-TypeScript               12 hrs 45 mins      ██████████████░░░░░░░░░░░   54.23 %
-React                    6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 %
-Node.js                  2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-GraphQL                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-SCSS                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-
-```
-
-Last Updated on 19/07/2025 12:52:06 UTC
-
-<!--END_SECTION:waka-->
 
 ## 🔥 Recent GitHub Activity
 
