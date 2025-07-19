@@ -98,11 +98,11 @@ _Practical guide for developers to monetize their technical skills and increase 
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#614](https://github.com/ngxtension/ngxtension-platform/pull/614) in [ngxtension/ngxtension-platform](https://github.com/ngxtension/ngxtension-platform)
-2. ❌ Closed PR [#62058](https://github.com/angular/angular/pull/62058) in [angular/angular](https://github.com/angular/angular)
-3. 💪 Opened PR [#62058](https://github.com/angular/angular/pull/62058) in [angular/angular](https://github.com/angular/angular)
-4. ❌ Closed PR [#64](https://github.com/edisonaugusthy/ng-storage/pull/64) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
-5. ❌ Closed PR [#65](https://github.com/edisonaugusthy/ng-storage/pull/65) in [edisonaugusthy/ng-storage](https://github.com/edisonaugusthy/ng-storage)
+1. 🎉 Merged PR [#3](https://github.com/edisonaugusthy/edisonaugusthy/pull/3) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
+2. 💪 Opened PR [#3](https://github.com/edisonaugusthy/edisonaugusthy/pull/3) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
+3. 🎉 Merged PR [#2](https://github.com/edisonaugusthy/edisonaugusthy/pull/2) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
+4. 💪 Opened PR [#2](https://github.com/edisonaugusthy/edisonaugusthy/pull/2) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
+5. 💪 Opened PR [#614](https://github.com/ngxtension/ngxtension-platform/pull/614) in [ngxtension/ngxtension-platform](https://github.com/ngxtension/ngxtension-platform)
 <!--END_SECTION:activity-->
 
 ## 🎯 Current Focus & Goals
