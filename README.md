@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![License](https://img.shields.io/github/license/edisonaugusthy/edisonaugusthy?color=brightgreen&label=LICENCE&logo=MIT)](https://github.com/edisonaugusthy/edisonaugusthy/blob/master/LICENCE)
+![License](https://img.shields.io/github/license/edisonaugusthy/edisonaugusthy?color=brightgreen&label=LICENCE&logo=MIT)
 ![Profile Views](https://komarev.com/ghpvc/?username=edisonaugusthy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12)
 ![Last Commit](https://img.shields.io/github/last-commit/edisonaugusthy/edisonaugusthy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
 
@@ -12,14 +12,14 @@
 
 ```yaml
 name: Edison Augusthy
-location: Munich, Germany 🇩🇪
+location: Munich, Germany
 specialization: React, Angular, Node.js, TypeScript, Blockchain
 
 career_journey:
   current: "Senior Software Engineer @ Twisted Mountain Animation"
   previous:
     - "Senior Software Engineer @ Ernst & Young (EY)"
-    - "Software Engineer @ Think Palm"
+    - "Software Engineer @ ThinkPalm"
     - "Software Engineer @ Feathersoft"
 
 expertise:
@@ -71,12 +71,6 @@ philosophy: "Building scalable solutions with clean code principles"
 ## 📊 Coding Analytics
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edisonaugusthy&theme=github-dark-dimmed&custom_title=Edison's%20Development%20Journey&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edisonaugusthy&theme=radical)
-
-</div>
 
 ## 🔥 Recent GitHub Activity
 
