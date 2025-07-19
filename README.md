@@ -68,6 +68,28 @@ philosophy: "Building scalable solutions with clean code principles"
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
+## 📝 Latest Blog Posts
+
+<div align="center">
+
+[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/edisonpappi)
+
+</div>
+
+**📚 Featured Articles:**
+
+🔧 **[How JavaScript Engines (Chrome V8) Works](https://dev.to/edisonpappi/how-javascript-engines-chrome-v8-works-50if)**  
+_Deep dive into the Chrome V8 engine and how JavaScript code gets executed under the hood_
+
+⚡ **[One Line Date Operations in JavaScript](https://dev.to/edisonpappi/one-line-date-operations-in-javascript-5c1h)**  
+_Elegant one-liner solutions for common date manipulation tasks in JavaScript_
+
+🗄️ **[Say Goodbye to Local Storage](https://dev.to/edisonpappi/say-goodbye-to-local-storage-568g)**  
+_Modern alternatives to localStorage and better state management solutions_
+
+💰 **[Sell Your Skills and Earn More Money](https://dev.to/edisonpappi/sell-your-skills-and-earn-more-money-2pg)**  
+_Practical guide for developers to monetize their technical skills and increase income_
+
 ## 📊 Coding Analytics
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edisonaugusthy&theme=github-dark-dimmed&custom_title=Edison's%20Development%20Journey&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
