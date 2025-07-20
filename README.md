@@ -98,11 +98,11 @@ _Practical guide for developers to monetize their technical skills and increase 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/edisonaugusthy/edisonaugusthy/pull/3) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
-2. 💪 Opened PR [#3](https://github.com/edisonaugusthy/edisonaugusthy/pull/3) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
-3. 🎉 Merged PR [#2](https://github.com/edisonaugusthy/edisonaugusthy/pull/2) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
-4. 💪 Opened PR [#2](https://github.com/edisonaugusthy/edisonaugusthy/pull/2) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
-5. 💪 Opened PR [#614](https://github.com/ngxtension/ngxtension-platform/pull/614) in [ngxtension/ngxtension-platform](https://github.com/ngxtension/ngxtension-platform)
+1. 💪 Opened PR [#18654](https://github.com/primefaces/primeng/pull/18654) in [primefaces/primeng](https://github.com/primefaces/primeng)
+2. 🎉 Merged PR [#3](https://github.com/edisonaugusthy/edisonaugusthy/pull/3) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
+3. 💪 Opened PR [#3](https://github.com/edisonaugusthy/edisonaugusthy/pull/3) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
+4. 🎉 Merged PR [#2](https://github.com/edisonaugusthy/edisonaugusthy/pull/2) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
+5. 💪 Opened PR [#2](https://github.com/edisonaugusthy/edisonaugusthy/pull/2) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
 <!--END_SECTION:activity-->
 
 ## 🎯 Current Focus & Goals
