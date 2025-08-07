@@ -12,12 +12,13 @@
 
 ```yaml
 name: Edison Augusthy
-location: Munich, Germany
+location: FrankFurt, Germany
 specialization: React, Angular, Node.js, TypeScript, Blockchain
 
 career_journey:
-  current: "Senior Software Engineer @ Twisted Mountain Animation"
+  current: "Senior Software Engineer @ Meet5"
   previous:
+    - "Senior Software Engineer @ Twisted Mountain Animation"
     - "Senior Software Engineer @ Ernst & Young (EY)"
     - "Software Engineer @ ThinkPalm"
     - "Software Engineer @ Feathersoft"
