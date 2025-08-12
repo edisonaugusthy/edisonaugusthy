@@ -16,7 +16,7 @@ location: FrankFurt, Germany
 specialization: React, Angular, Node.js, TypeScript, Blockchain
 
 career_journey:
-  current: "Senior Software Engineer @ Meet5"
+  current: "Web Developer @ Meet5"
   previous:
     - "Senior Software Engineer @ Twisted Mountain Animation"
     - "Senior Software Engineer @ Ernst & Young (EY)"
@@ -144,7 +144,7 @@ _I'm passionate about building scalable solutions that make a real impact. Let's
 [![Email](https://img.shields.io/badge/Email-edisonaugusthy@outlook.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](mailto:edisonaugusthy@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-edisonaugusthy-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6)](https://github.com/edisonaugusthy)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-edison-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16)](https://stackoverflow.com/users/6781625/edison)
-[![Location](https://img.shields.io/badge/Location-Munich,%20Germany-informational?style=for-the-badge&labelColor=black&logo=googlemaps&logoColor=4285f4&color=4285f4)]()
+[![Location](https://img.shields.io/badge/Location-Frankfurt,%20Germany-informational?style=for-the-badge&labelColor=black&logo=googlemaps&logoColor=4285f4&color=4285f4)]()
 
 </div>
 
