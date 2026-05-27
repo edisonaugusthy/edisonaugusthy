@@ -99,11 +99,11 @@ _Practical guide for developers to monetize their technical skills and increase 
 
 <!--START_SECTION:activity-->
 
-1.  Labeled issue [#19068](https://github.com/primefaces/primeng/issues/19068) in [primefaces/primeng](https://github.com/primefaces/primeng)
-2. ❗ Opened issue [#19068](https://github.com/primefaces/primeng/issues/19068) in [primefaces/primeng](https://github.com/primefaces/primeng)
-3. 💪 Opened PR [#3](https://github.com/edisonaugusthy/edisonaugusthy/pull/3) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
-4. 🎉 Merged PR [#2](https://github.com/edisonaugusthy/edisonaugusthy/pull/2) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
-5. 💪 Opened PR [#2](https://github.com/edisonaugusthy/edisonaugusthy/pull/2) in [edisonaugusthy/edisonaugusthy](https://github.com/edisonaugusthy/edisonaugusthy)
+1. 🗣 Commented on [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2#issuecomment-4556126752) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+2. ℹ️ Assigned issue [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+3. ℹ️ Labeled issue [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+4. ℹ️ Labeled issue [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+5. 🔒 Closed issue [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
 <!--END_SECTION:activity-->
 
 ## 🎯 Current Focus & Goals
