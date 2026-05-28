@@ -99,11 +99,11 @@ _Practical guide for developers to monetize their technical skills and increase 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2#issuecomment-4556126752) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
-2. ℹ️ Assigned issue [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
-3. ℹ️ Labeled issue [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
-4. ℹ️ Labeled issue [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
-5. 🔒 Closed issue [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+1. 🎉 Merged PR [#5](https://github.com/edisonaugusthy/angular-render-scan/pull/5) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+2. 💪 Opened PR [#5](https://github.com/edisonaugusthy/angular-render-scan/pull/5) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+3. 🎉 Merged PR [#4](https://github.com/edisonaugusthy/angular-render-scan/pull/4) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+4. 💪 Opened PR [#4](https://github.com/edisonaugusthy/angular-render-scan/pull/4) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+5. 🗣 Commented on [#2](https://github.com/edisonaugusthy/angular-render-scan/issues/2#issuecomment-4556126752) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
 <!--END_SECTION:activity-->
 
 ## 🎯 Current Focus & Goals
