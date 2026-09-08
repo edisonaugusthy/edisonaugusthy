@@ -17,8 +17,8 @@ _Practical guide for developers to monetize their technical skills and increase 
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/edisonaugusthy/angular-render-scan/pull/14) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
-2. 💪 Opened PR [#14](https://github.com/edisonaugusthy/angular-render-scan/pull/14) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
+1. 🎉 Merged PR [#4](https://github.com/edisonaugusthy/multi-device-viewer/pull/4) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
+2. 💪 Opened PR [#4](https://github.com/edisonaugusthy/multi-device-viewer/pull/4) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
 3. 🔒 Closed issue [#12](https://github.com/edisonaugusthy/angular-render-scan/issues/12) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
 4. ℹ️ Labeled PR [#13](https://github.com/edisonaugusthy/angular-render-scan/pull/13) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
 5. ℹ️ Labeled issue [#12](https://github.com/edisonaugusthy/angular-render-scan/issues/12) in [edisonaugusthy/angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan)
