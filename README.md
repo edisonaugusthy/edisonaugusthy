@@ -17,9 +17,9 @@ _Practical guide for developers to monetize their technical skills and increase 
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
-2. ℹ️ Assigned issue [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
-3. 🗣 Commented on [#5](https://github.com/edisonaugusthy/multi-device-viewer/issues/5#issuecomment-6122017621) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
-4. 🔒 Closed issue [#5](https://github.com/edisonaugusthy/multi-device-viewer/issues/5) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
-5. ℹ️ Labeled issue [#5](https://github.com/edisonaugusthy/multi-device-viewer/issues/5) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
+1. 🗣 Commented on [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6#issuecomment-6351524131) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
+2. 🔒 Closed issue [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
+3. ℹ️ Assigned issue [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
+4. 🗣 Commented on [#5](https://github.com/edisonaugusthy/multi-device-viewer/issues/5#issuecomment-6122017621) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
+5. 🔒 Closed issue [#5](https://github.com/edisonaugusthy/multi-device-viewer/issues/5) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
 <!--END_SECTION:activity-->
