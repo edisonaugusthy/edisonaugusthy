@@ -17,9 +17,9 @@ _Practical guide for developers to monetize their technical skills and increase 
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6#issuecomment-6351524131) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
-2. 🔒 Closed issue [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
-3. ℹ️ Assigned issue [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
-4. 🗣 Commented on [#5](https://github.com/edisonaugusthy/multi-device-viewer/issues/5#issuecomment-6122017621) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
-5. 🔒 Closed issue [#5](https://github.com/edisonaugusthy/multi-device-viewer/issues/5) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
+1. 🚀 Published release [Image Manager 0.1.2](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/image-manager-v0.1.2) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+2. 🚀 Published release [Harbor 0.8.1](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/harbor-v0.8.1) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+3. 🚀 Published release [Harbor 0.8.0](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/harbor-v0.8.0) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+4. 🚀 Published release [Image Manager 0.1.1](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/image-manager-v0.1.1) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+5. 🗣 Commented on [#6](https://github.com/edisonaugusthy/multi-device-viewer/issues/6#issuecomment-6351524131) in [edisonaugusthy/multi-device-viewer](https://github.com/edisonaugusthy/multi-device-viewer)
 <!--END_SECTION:activity-->
