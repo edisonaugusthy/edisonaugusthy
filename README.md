@@ -17,9 +17,9 @@ _Practical guide for developers to monetize their technical skills and increase 
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Harbor 0.8.1 Signed](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/harbor-v0.8.1-signed) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
-2. 🚀 Published release [Image Manager 0.1.2 Signed](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/image-manager-v0.1.2-signed) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
-3. 🚀 Published release [Image Manager 0.1.2](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/image-manager-v0.1.2) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
-4. 🚀 Published release [Harbor 0.8.1](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/harbor-v0.8.1) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
-5. 🚀 Published release [Harbor 0.8.0](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/harbor-v0.8.0) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+1. 🚀 Published release [Image Manager 0.1.3](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/image-manager-v0.1.3) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+2. 🚀 Published release [Harbor 0.8.1 Signed](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/harbor-v0.8.1-signed) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+3. 🚀 Published release [Image Manager 0.1.2 Signed](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/image-manager-v0.1.2-signed) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+4. 🚀 Published release [Image Manager 0.1.2](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/image-manager-v0.1.2) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
+5. 🚀 Published release [Harbor 0.8.1](https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/tag/harbor-v0.8.1) in [edisonaugusthy/MacUtilityKit-Releases](https://github.com/edisonaugusthy/MacUtilityKit-Releases)
 <!--END_SECTION:activity-->
